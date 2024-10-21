@@ -1,5 +1,5 @@
 # auto-deploy-unichain
-
+# utamakan "git pull" sebelum menjalankan
 Hi, saya membuat ini dengan segala yang saya bisa, maka dari itu jangan di-rename ya!  
 **auto-deploy-unichain_sepolia**  
 Khusus pengguna Termux, bisa scroll sampai bawah jika terjadi gagal saat instalasi dan run.
