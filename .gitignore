@@ -1,9 +1,8 @@
-
-
-
-
-
-
+# =========================================
+# Gitignore ini dibuat oleh: Anam Bactiar
+# GitHub: https://github.com/bactiar291
+# Deskripsi: Ini adalah gitignore standar untuk proyek Python
+# =========================================
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
