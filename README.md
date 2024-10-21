@@ -12,6 +12,10 @@ Proyek ini bertujuan untuk memudahkan pengguna yang menggunakan **[layanan ini]*
 
 Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi di bawah ini untuk memulai.
 
+## Tracking Deploy Di explorer Cek 👇 :
+
+    https://sepolia.uniscan.xyz/
+
 ## Cara Menggunakan
 1. Clone repositori ini ke mesin lokal Anda:
     ```bash
