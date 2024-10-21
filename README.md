@@ -35,7 +35,7 @@ Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi 
     Isi **Alamat Address** dan **Private Key** seperti ini:
 
     ```
-    INFURA_URL=INI JANGAN DIUBAH! SUDAH SESUAI DENGAN RPL UNI SEPOLNYA
+    INFURA_URL=INI JANGAN DIUBAH! SUDAH SESUAI DENGAN RPL BAWAAN!!!!
     SENDER_ADDRESS=PASTE_ALAMAT_ADDRESS_KAMU_DISINI
     PRIVATE_KEY=PASTE_PRIVATE_KEY_KAMU_DISINI
     ```
