@@ -2,6 +2,8 @@
 # utamakan "git pull" sebelum menjalankan
 Hi, saya membuat ini dengan segala yang saya bisa, maka dari itu jangan di-rename ya!  
 **auto-deploy-unichain_sepolia**  
+![Gambar](https://raw.githubusercontent.com/bactiar291/auto-deploy-unichain/main/deploy.png)
+
 Khusus pengguna Termux, bisa scroll sampai bawah jika terjadi gagal saat instalasi dan run.
 
 Selamat datang di repositori Bactiar291! 🎉
